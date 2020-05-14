@@ -11,11 +11,11 @@
     border-left: 5px solid rgb(138,43,226);
 }
 .recovered{
-    border-bottom: 10px solid rgba(0, 255, 0, 0.5);
-    border-left: 5px solid rgba(0, 255, 0, 0.5);
+    border-bottom: 10px solid rgba(0, 255, 0, 0.925);;
+    border-left: 5px solid rgba(0, 255, 0, 0.925);
 }
 .deaths{
-    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
-    border-left: 5px solid rgba(255, 0, 0, 0.5);
+    border-bottom: 10px solid rgb(148, 5, 5);
+    border-left: 5px solid rgb(148, 5, 5);
 }
 
