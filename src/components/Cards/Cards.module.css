@@ -7,8 +7,8 @@
     margin: 0 2% !important;
 }
 .infected{
-    border-bottom: 10px solid rgb(138,43,226);
-    border-left: 5px solid rgb(138,43,226);
+    border-bottom: 10px solid rgb(10, 17, 117);
+    border-left: 5px solid rgb(10, 17, 117);
 }
 .recovered{
     border-bottom: 10px solid rgba(0, 255, 0, 0.925);;

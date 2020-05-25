@@ -39,7 +39,7 @@ const Cards= ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
                             <CountUp start={0} end = {deaths.value} duration={2.5} seperator="," />
                         </Typography>
                         <Typography color="textSecondary">{new Date(lastUpdate).toDateString()}</Typography>
-                        <Typography variant="body2">Deaths by Covid-19</Typography>
+                        <Typography variant="body2">Deaths due to Covid-19</Typography>
                     </CardContent>
                 </Grid>
             </Grid>
